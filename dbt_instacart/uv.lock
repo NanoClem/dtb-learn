@@ -212,7 +212,7 @@ wheels = [
 ]
 
 [[package]]
-name = "dbt-fundamentals"
+name = "dbt-instacart"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
